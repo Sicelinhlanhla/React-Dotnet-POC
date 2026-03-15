@@ -8,7 +8,7 @@ export default function DetailsPage() {
 
   useEffect(()=>{
 
-    apiFetch<User>("/user/me")
+    apiFetch<User>("/auth/myProfile")
       .then(setUser)
 
   },[])
