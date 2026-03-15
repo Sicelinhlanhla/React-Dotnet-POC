@@ -39,6 +39,7 @@ app.UseHttpsRedirection();
 app.UseSwagger();
 app.UseSwaggerUI();
 app.UseAuthorization();
+app.UseAuthentication();
 
 app.MapControllers();
 

@@ -4,13 +4,16 @@ services:
 
   postgres:
     image: postgres:15
-    container_name: poc_postgres
+    container_name: poc-postgres
+
     environment:
       POSTGRES_DB: pocdb
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
+
     ports:
       - "5432:5432"
+
     volumes:
       - postgres_data:/var/lib/postgresql/data
 
@@ -18,10 +21,29 @@ services:
     build:
       context: ..
       dockerfile: Backend/POC.API/POC.API/Dockerfile
-    ports:
-      - "5000:8080"
+
+    container_name: poc-api
+
+    environment:
+      ConnectionStrings__DefaultConnection: Host=postgres;Port=5432;Database=pocdb;Username=postgres;Password=postgres
+
     depends_on:
       - postgres
+
+    ports:
+      - "5000:5000"
+
+  frontend:
+    build:
+      context: ../frontend
+
+    container_name: poc-frontend
+
+    depends_on:
+      - api
+
+    ports:
+      - "5173:80"
 
 volumes:
   postgres_data:
