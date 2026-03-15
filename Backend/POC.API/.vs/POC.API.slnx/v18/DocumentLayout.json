@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\poc.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\poc.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|c:\\users\\sicelinhlanhlav\\source\\repos\\react-dotnet-poc\\backend\\poc.api\\poc.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88171DF4-47F5-168B-1EF6-0F16AB2D623E}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "POC.API\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "POC.API\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:24:31.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "POC.API\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "POC.API\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:23:49.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\appsettings.json",
+              "RelativeDocumentMoniker": "POC.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\appsettings.json",
+              "RelativeToolTip": "POC.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-15T07:21:58.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Dockerfile",
+              "RelativeDocumentMoniker": "POC.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Dockerfile",
+              "RelativeToolTip": "POC.API\\Dockerfile",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-15T07:18:02.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "POC.API.http",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\POC.API.http",
+              "RelativeDocumentMoniker": "POC.API\\POC.API.http",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\POC.API.http",
+              "RelativeToolTip": "POC.API\\POC.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-15T07:22:00.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Program.cs",
+              "RelativeDocumentMoniker": "POC.API\\Program.cs",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Program.cs",
+              "RelativeToolTip": "POC.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:06:14.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "POC.API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Services\\UserService.cs",
+              "RelativeToolTip": "POC.API\\Services\\UserService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwDIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:31:11.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "POC.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "POC.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-15T08:19:52.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "POC.API\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "POC.API\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:13:03.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "POC.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "POC.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:26:29.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "POC.API\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Services\\IUserService.cs",
+              "RelativeToolTip": "POC.API\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:31:01.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "POC.API\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\SicelinhlanhlaV\\source\\repos\\React-Dotnet-POC\\Backend\\POC.API\\POC.API\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "POC.API\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:10:25.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
