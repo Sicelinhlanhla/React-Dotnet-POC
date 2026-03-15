@@ -1,4 +1,5 @@
-﻿using POC.API.Domain.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using POC.API.Domain.Entities;
 using POC.API.Dtos;
 using POC.API.Infrastructure.Data;
 
@@ -52,6 +53,20 @@ namespace POC.API.Services
 
             _dbContext.Users.Add(user);
             await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task<UserDto> GetUserById(Guid id)
+        {
+            var user = await _dbContext.Users.FirstOrDefaultAsync(x => x.Id == id);
+
+            var userDto = new UserDto
+            {
+                Email = user.Email,
+                Name = user.Name,
+                CreatedAt = user.CreatedAt
+            };
+
+            return userDto;
         }
     }
 }

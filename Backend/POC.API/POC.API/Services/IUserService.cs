@@ -6,5 +6,7 @@ namespace POC.API.Services
     {
         Task RegisterUser(RegisterDto userDto);
         Task<string> LoginUser(LoginDto userDto);
+
+        Task<UserDto> GetUserById(Guid id);
     }
 }
